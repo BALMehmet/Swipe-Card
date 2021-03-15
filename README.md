@@ -7,7 +7,7 @@
 - Android Gradle Version 4.1.0
 
 ## Goal
-This application has been prepared for tarining purpose in order to implement the MVVM pattern for Rercyclerview app.
+This application has been prepared for tarining purpose in order to implement the MVVM pattern for recyclerview app.
 
 ## User Profile
 - Anyone who wants to learn the MVVM pattern for Recyclerview application.
