@@ -1,10 +1,10 @@
 # Swipe Card
-/ Version 0.1
-/ Language Kotlin
-/ Min SDK 21
-/ JDK 1.8
-/ Gradle Version 6.5
-/ Android Gradle Version 4.1.0
+- Version 0.1
+- Language Kotlin
+- Min SDK 21
+- JDK 1.8
+- Gradle Version 6.5
+- Android Gradle Version 4.1.0
 
 ## Goal
 This application has been prepared for tarining purpose in order to make the MVVM pattern in practice and to show the server model relationship.
