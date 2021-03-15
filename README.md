@@ -7,7 +7,7 @@
 / Android Gradle Version 4.1.0
 
 ## Goal
-This application has been prepared for educational purposes in order to make the MVVM pattern in practice and to show the Server model relationship.
+This application has been prepared for tarining purposes in order to make the MVVM pattern in practice and to show the Server model relationship.
 
 ## User Profile
 - Anyone who wants to learn the MVVM pattern for Recyclerview application.
@@ -18,7 +18,7 @@ This application has been prepared for educational purposes in order to make the
 - An Android phone for debugging.
 
 ## Project Structure
-Swipe Card is designed with MVVM design pattern.
+Swipe Card was designed with MVVM design pattern.
 
 ## Libraries
 - Lifecycle
